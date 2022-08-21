@@ -241,7 +241,7 @@ Since the implementation of our new [Translation system](https://github.com/publ
 
 To add new languages or for additional support, please write to plots-dev@googlegroups.com
 
-## Security..
+## Security.
 
 To report security vulnerabilities or for questions about security, please contact web@publiclab.org. Our Web Working Group will assess and respond promptly.
 
